@@ -1,2 +1,2 @@
 # yatube
-Social network of bloggers
+Social network for bloggers
